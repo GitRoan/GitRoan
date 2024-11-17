@@ -6,7 +6,6 @@
 <!-- 欢迎标题 -->
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
-<p align="center">
 <!-- 我的博客跟邮箱 -->
 <div align="center" style="margin: 20px 0;">
     <h3>My Blog:</h3>
@@ -87,9 +86,6 @@
       <img src="https://picgo.roanyiu.com/unreal.svg" alt="Unreal Engine" width="40" height="40"/>
     </div>
   </div>
-</p>
-
----
 
 <!-- 关于我 -->
   <div style="text-align: center; margin-bottom: 20px;">
