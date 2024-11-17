@@ -1,6 +1,10 @@
+<!-- 顶部居中 Logo -->
 <p align="center">
-  <img src="https://picgo.roanyiu.com/git_avatar.gif" alt="logo">
+  <img src="https://picgo.roanyiu.com/git_avatar.gif" alt="logo" width="800">
 </p>
+
+<!-- 欢迎标题 -->
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <!-- 我的博客跟邮箱 -->
 <div align="center" style="margin: 20px 0;">
@@ -23,7 +27,11 @@
     </ul>
 </div>
 <!-- <br> -->
+
+<!-- GitHub 统计数据 -->
+
 <p align="center">
+
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RoanYiu&theme=shadow-green&hide_border=&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
@@ -78,4 +86,9 @@
       <img src="https://picgo.roanyiu.com/unreal.svg" alt="Unreal Engine" width="40" height="40"/>
     </div>
   </div>
+<!-- 关于我 -->
+<h2 align="center">About Me</h2>
+<p align="center">
+  一直处于学习状态的游戏开发者，我的名字：Roan，来自广东广州.
+</p>
 </div>
