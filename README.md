@@ -92,6 +92,7 @@
 ---
 
 <!-- 关于我 -->
-<div style="center">About Me</div>
+  <div style="text-align: center; margin-bottom: 20px;">
+  <h2>About Me:</h2>
   一直处于学习状态的游戏开发者，我的名字：Roan，来自广东广州.
 </div>
