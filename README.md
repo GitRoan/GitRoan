@@ -87,8 +87,8 @@
     </div>
   </div>
 <!-- 关于我 -->
-<h2 align="center">About Me</h2>
 <p align="center">
+<h2 align="center">About Me</h2>
   一直处于学习状态的游戏开发者，我的名字：Roan，来自广东广州.
 </p>
 </div>
