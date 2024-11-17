@@ -6,6 +6,7 @@
 <!-- 欢迎标题 -->
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
+<p align="center">
 <!-- 我的博客跟邮箱 -->
 <div align="center" style="margin: 20px 0;">
     <h3>My Blog:</h3>
@@ -86,9 +87,9 @@
       <img src="https://picgo.roanyiu.com/unreal.svg" alt="Unreal Engine" width="40" height="40"/>
     </div>
   </div>
+</p>
+
 <!-- 关于我 -->
-<p align="center">
 <h2 align="center">About Me</h2>
   一直处于学习状态的游戏开发者，我的名字：Roan，来自广东广州.
-</p>
 </div>
